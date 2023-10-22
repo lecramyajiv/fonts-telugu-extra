@@ -8,9 +8,6 @@
 6. Google/Akaya Telvigala [Akaya](https://github.com/vaishnavimurthy/Akaya-Telivigala)
 
 
-
-
-
 # Download URL of Fonts
 
 1. Telugu Vijayam [Telugu Vijayam](http://deb.debian.org/debian/pool/main/f/fonts-teluguvijayam/fonts-teluguvijayam_2.1.orig.tar.xz)
