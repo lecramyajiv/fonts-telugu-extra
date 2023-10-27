@@ -9,6 +9,13 @@ The Fonts are from
 1. Silicon Andhra/Debian
 2. Google Fonts
 3. New Life Computer Institute
+4. SIL
+
+I've added Font for Gunjal Gondi Script here
+since it is a Dravidian language and is spoken
+in the state of Telangana apart from Eastern
+Maharastra, South Eastern Madhya Pradesh and
+Chhattishgarh.
 
 The Homepages and download urls are in URL.md file.
 The list of the fonts included are in FONTS.md file.

@@ -6,6 +6,7 @@
 4. Google/itfoundry [Itfoundry](http://indiantypefoundry.com/)
 5. Google/Chathura [Chathura](https://github.com/appajid/Chathura)
 6. Google/Akaya Telvigala [Akaya](https://github.com/vaishnavimurthy/Akaya-Telivigala)
+7. SIL/Narnoor [Narnoor](https://software.sil.org/Narnoor/)
 
 
 # Download URL of Fonts
@@ -19,3 +20,4 @@
 7. Google/Baloo2 [Baloo2](https://github.com/EkType/Baloo2/releases/download/1.640/Baloo2_1.640.zip)
 8. Google/Tiro [Tiro](https://github.com/TiroTypeworks/Indigo/archive/refs/heads/main.zip)
 9. Google/Chathura [Chathura](https://github.com/appajid/Chathura/archive/refs/tags/Chathura.zip)
+10. SIL/Narnoor [Narnoor](https://software.sil.org/downloads/r/narnoor/Narnoor-3.000.zip)
