@@ -42,5 +42,4 @@
 
 # Notofonts
 
-1. Masaram-Gondi
-2. Gunjala-Gondi
+1. Gunjala-Gondi
