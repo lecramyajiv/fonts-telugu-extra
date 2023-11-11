@@ -39,3 +39,8 @@
 # SIL
 
 1. Narnoor
+
+# Notofonts
+
+1. Masaram-Gondi
+2. Gunjala-Gondi
