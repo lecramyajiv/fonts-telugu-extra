@@ -8,6 +8,7 @@
 6. Google/Akaya Telvigala [Akaya](https://github.com/vaishnavimurthy/Akaya-Telivigala)
 7. SIL/Narnoor [Narnoor](https://software.sil.org/Narnoor/)
 8. Notofonts/Gunjala-gondi [Gunjala](https://github.com/notofonts/gunjala-gondi)
+9. NotofontsMasaram [Masaram](https://github.com/notofonts/masaram-gondi)
 
 
 # Download URL of Fonts
@@ -23,3 +24,4 @@
 9. Google/Chathura [Chathura](https://github.com/appajid/Chathura/archive/f6944e3/chathura-f6944e361db05f2cb3a33356e54615f4cf754de8.tar.gz)
 10. SIL/Narnoor [Narnoor](https://software.sil.org/downloads/r/narnoor/Narnoor-3.000.zip)
 11. notofonts/gunjala-gondi [Gunjala](https://github.com/notofonts/gunjala-gondi/releases/download/NotoSansGunjalaGondi-v1.004/NotoSansGunjalaGondi-v1.004.zip)
+12. notosansmasaram [Masaram](https://github.com/notofonts/masaram-gondi/releases/download/NotoSansMasaramGondi-v1.004/NotoSansMasaramGondi-v1.004.zip)
