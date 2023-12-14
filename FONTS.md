@@ -35,14 +35,3 @@
 1. Nirmal
 2. Asha
 3. Elur
-
-# GONDI FONTS
-
-##  SIL
-
-1. Narnoor
-
-##  Notofonts
-
-1. Gunjala-Gondi
-2. NotoSansMasaram
