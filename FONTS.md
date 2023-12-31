@@ -39,3 +39,7 @@
 # Virtual vinodh
 
 1. Aazhvaar
+
+# OpenSuse
+
+1. Akruti
