@@ -10,7 +10,6 @@ The Fonts are from
 2. Google Fonts
 3. New Life Computer Institute
 4. SIL
-5. Opensuse
 
 The Homepages and download urls are in URL.md file.
 The list of the fonts included are in FONTS.md file.
