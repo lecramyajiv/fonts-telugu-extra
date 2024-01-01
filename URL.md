@@ -8,7 +8,7 @@
 6. Google/Akaya Telvigala [Akaya](https://github.com/vaishnavimurthy/Akaya-Telivigala)
 7. Virtual vinodh/aazhvaar [Aahvaar](http://www.virtualvinodh.com/projects/aazhvaar)
 8. Telugu Vijayam [Telugu Vijayam](https://fonts.siliconandhra.org/)
-9. OpenSuse [Akruti](https://software.opensuse.org/download/package?package=indic-fonts&project=openSUSE%3ALeap%3A15.0)
+
 
 # Download URL of Fonts
 
@@ -22,5 +22,4 @@
 8. Google/Tiro [Tiro](https://github.com/TiroTypeworks/Indigo/archive/c5f23cb/Tiro-c5f23cb391c99bb3e5c3308568c31319e2e7fbd1.tar.gz)
 9. Google/Chathura [Chathura](https://github.com/appajid/Chathura/archive/f6944e3/chathura-f6944e361db05f2cb3a33356e54615f4cf754de8.tar.gz)
 10. Virtual vinodh/aazhvaar [Aazhvaar](https://github.com/virtualvinodh/aazhvaar-telugu/blob/main/AazhvaarTelugu.otf?raw=true)
-11. [Aazhvaar KMP](https://github.com/virtualvinodh/aazhvaar-telugu/blob/main/aazhvaar_telugu.kmp?raw=true)
-12. OpenSuse [Akruti](https://download.opensuse.org/repositories/openSUSE:/Leap:/15.0/standard/noarch/indic-fonts-20160512-lp150.1.40.noarch.rpm)
+
